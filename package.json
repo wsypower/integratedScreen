@@ -30,6 +30,7 @@
     "svgo-loader": "^2.1.0",
     "vue-cli-plugin-axios": "0.0.4",
     "vue-cli-plugin-svg-sprite": "^1.0.0",
+    "vue-cli-plugin-vuex-module-generator": "^0.1.1",
     "vue-template-compiler": "^2.6.10"
   }
 }
