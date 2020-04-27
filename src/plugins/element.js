@@ -6,3 +6,4 @@ import "element-ui/lib/theme-chalk/index.css";
 // A=>aaaaaaa
 Vue.use(Element);
 //ssssssss
+//aaaaaaaaaaaaaB=>aaaaaaaaaaa
