@@ -6,6 +6,7 @@ import store from "./store";
 import "./plugins/element.js";
 //1
 //2
+//3
 Vue.config.productionTip = false;
 
 new Vue({
