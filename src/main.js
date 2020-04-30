@@ -7,6 +7,7 @@ import "./plugins/element.js";
 //1
 //2
 //3
+//4
 Vue.config.productionTip = false;
 
 new Vue({
